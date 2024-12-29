@@ -1,0 +1,6 @@
+# 鼎鑫科技富通财富理财/投资理财/公募私募基金/余额宝理财/项目投资
+
+功能比较强大有：客服聊天系统、消息声音提醒、转盘游戏、签到、积分兑换、会员等级、<br>、推广抽成等。<br>1：修复已知bug<br>2：完美无错可直接搭建<br>3：自带客服聊天即时通讯<br>特别说明：老会员成功邀请新好友注册的情况，新会员注册成功充值并投资的，老会员可得到相<br>应的提成！<br>邀请佣金制度说明：<br>example.com，注册成功并投资后，可得到系统分配的邀请佣金；<br>example.com，最多可到F级，每成功邀请一位会员，都可以得到其投资的邀请佣金，并且可享<br>受一次邀请，终生分配佣金；<br>example.com，被邀请加入的新会员，继续邀请新会员注册成功并投资后，仍然可以享受一次邀<br>请，终生分配佣金；<br>example.com，全程由系统自动结算，新会员投资后，即刻结算；<br>example.com，无封顶限制，即被邀请会员投资金额无论多少，邀请者均可得到相应比例的佣金<br>example.com，全程由系统自动结算，新会员投资后，即刻结算,佣金金额，无封顶限制，即被邀<br>请会员投资金额无论多少，邀请者均可得到相应比例的佣金<br>example.com、转盘游戏、实时数据<br>example.com<br>example.com，带wap可封装app，您身边触手可及的理财好平台严格的资金审核，全程监<br>控，专业管理，隐私保护，最安全的网上理财<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/TMtN7" style="color: red;">https://mega-file.org/TMtN7</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
